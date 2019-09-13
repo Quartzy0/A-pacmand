@@ -1,0 +1,1 @@
+start /B javaw -jar %~dp0\Pathfinding.jar
